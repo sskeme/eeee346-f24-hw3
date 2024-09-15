@@ -28,7 +28,7 @@ g++ -o main *.cpp *.h
 
 2. Enter the number of rows of Matrix A, the number of columns of Matrix A, the element values of Matrix A, the number of rows of Matrix B, the number of columns of Matrix B, and the element values of Matrix B in order. Here is an example.
 
-![example](https://github.com/sskeme/eeee346-s24-hw3-/assets/154963758/788bd7e2-211e-4036-b059-b6de7bc6d7cf)
+![hw3_ex](https://github.com/user-attachments/assets/3773ca65-cf75-4f0a-a470-e0771d8bfb62)
 
  * Input
  ```
