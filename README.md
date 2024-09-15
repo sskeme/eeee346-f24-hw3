@@ -51,18 +51,6 @@ g++ -o main *.cpp *.h
 
 Here are the additional inputs for testing your program. Please calculate the expected outputs on your own and compare them with the results printed by your program.
 ```
-2 
-3 
-1 2 3 
-4 5 6
-3 
-2 
-10 11 
-20 21 
-30 31
-```
-
-```
 1 
 4 
 2 -3 0 4
@@ -84,6 +72,19 @@ Here are the additional inputs for testing your program. Please calculate the ex
 4 
 2 0 1 3 
 4 5 2 6
+```
+
+```
+2 
+4 
+3 2 1 5 
+9 1 3 0
+4 
+3 
+2 9 0 
+1 3 5 
+2 4 7 
+8 1 5 
 ```
 
 # Submit
